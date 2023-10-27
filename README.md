@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rishav-Bot
-- 👀 I’m interested in front end developement
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on github 
+- 👀 I’m into full stack web developement using MERN stack.
+- 🌱 I’m currently brushing up my backend skills.
+- 💞️ I’m open to collaborate on github.
 - 📫 How to reach me 
 
 <!---
